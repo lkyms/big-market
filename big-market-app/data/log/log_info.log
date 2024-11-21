@@ -1,0 +1,32 @@
+24-11-21.13:58:26.708 [main            ] INFO  AwardDaoTest           - Starting AwardDaoTest using Java 1.8.0_312 on LwjdeMacBook-Pro.local with PID 86187 (started by lwj in /Users/lwj/Developer/big-market/big-market-app)
+24-11-21.13:58:26.709 [main            ] INFO  AwardDaoTest           - The following 1 profile is active: "dev"
+24-11-21.13:58:27.982 [main            ] INFO  AwardDaoTest           - Started AwardDaoTest in 1.582 seconds (JVM running for 2.264)
+24-11-21.13:58:28.135 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-11-21.13:58:28.456 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-11-21.13:58:28.634 [main            ] INFO  AwardDaoTest           - 测试结果：[{"awardConfig":"1,100","awardDesc":"用户积分","awardId":101,"awardKey":"user_credit_random"},{"awardConfig":"5","awardDesc":"增加使用次数","awardId":102,"awardKey":"openai_use_count"},{"awardConfig":"10","awardDesc":"增加使用次数","awardId":103,"awardKey":"openai_use_count"},{"awardConfig":"20","awardDesc":"增加使用次数","awardId":104,"awardKey":"openai_use_count"},{"awardConfig":"gpt-e","awardDesc":"增加模型","awardId":105,"awardKey":"openai_model"},{"awardConfig":"dall-e-2","awardDesc":"增加模型","awardId":106,"awardKey":"openai_model"},{"awardConfig":"dall-e-3","awardDesc":"增加模型","awardId":107,"awardKey":"openai_model"},{"awardConfig":"100","awardDesc":"增加使用次数","awardId":108,"awardKey":"openai_use_count"},{"awardConfig":"gpt-4,dall-e-2,dall-e-3","awardDesc":"增加模型","awardId":109,"awardKey":"openai_model"}]
+24-11-21.13:58:28.641 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-11-21.13:58:28.648 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-11-21.14:12:20.882 [main            ] INFO  StrategyDaoTest        - Starting StrategyDaoTest using Java 1.8.0_312 on LwjdeMacBook-Pro.local with PID 87114 (started by lwj in /Users/lwj/Developer/big-market/big-market-app)
+24-11-21.14:12:20.882 [main            ] INFO  StrategyDaoTest        - The following 1 profile is active: "dev"
+24-11-21.14:12:22.104 [main            ] INFO  StrategyDaoTest        - Started StrategyDaoTest in 1.482 seconds (JVM running for 1.951)
+24-11-21.14:12:22.264 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-11-21.14:12:22.547 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-11-21.14:12:22.702 [main            ] INFO  StrategyDaoTest        - 测试结果：[{"strategyId":10001}]
+24-11-21.14:12:22.709 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-11-21.14:12:22.720 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-11-21.14:13:19.187 [main            ] INFO  StrategyRuleDaoTest    - Starting StrategyRuleDaoTest using Java 1.8.0_312 on LwjdeMacBook-Pro.local with PID 87188 (started by lwj in /Users/lwj/Developer/big-market/big-market-app)
+24-11-21.14:13:19.188 [main            ] INFO  StrategyRuleDaoTest    - The following 1 profile is active: "dev"
+24-11-21.14:13:20.393 [main            ] INFO  StrategyRuleDaoTest    - Started StrategyRuleDaoTest in 1.471 seconds (JVM running for 1.939)
+24-11-21.14:13:20.550 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-11-21.14:13:20.823 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-11-21.14:13:20.986 [main            ] INFO  StrategyRuleDaoTest    - 测试结果：[{"strategyId":10001},{"strategyId":10001},{"strategyId":10001},{"strategyId":10001},{"strategyId":10001},{"strategyId":10001},{"strategyId":10001}]
+24-11-21.14:13:20.995 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-11-21.14:13:21.001 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-11-21.14:14:17.339 [main            ] INFO  StrategyAwardDaoTest   - Starting StrategyAwardDaoTest using Java 1.8.0_312 on LwjdeMacBook-Pro.local with PID 87270 (started by lwj in /Users/lwj/Developer/big-market/big-market-app)
+24-11-21.14:14:17.339 [main            ] INFO  StrategyAwardDaoTest   - The following 1 profile is active: "dev"
+24-11-21.14:14:18.526 [main            ] INFO  StrategyAwardDaoTest   - Started StrategyAwardDaoTest in 1.455 seconds (JVM running for 1.918)
+24-11-21.14:14:18.685 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-11-21.14:14:18.977 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-11-21.14:14:19.142 [main            ] INFO  StrategyAwardDaoTest   - 测试结果：[{"strategyId":10001},{"strategyId":10001},{"strategyId":10001},{"strategyId":10001},{"strategyId":10001},{"strategyId":10001},{"strategyId":10001},{"strategyId":10001},{"strategyId":10001}]
+24-11-21.14:14:19.150 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-11-21.14:14:19.170 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
