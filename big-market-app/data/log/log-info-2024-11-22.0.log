@@ -1,0 +1,46 @@
+24-11-22.16:25:38.704 [main            ] INFO  ApiTest                - Starting ApiTest using Java 1.8.0_312 on LwjdeMacBook-Pro.local with PID 11841 (started by lwj in /Users/lwj/Developer/big-market/big-market-app)
+24-11-22.16:25:38.704 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-11-22.16:25:39.230 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-11-22.16:25:39.233 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-11-22.16:25:39.248 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 6 ms. Found 0 Redis repository interfaces.
+24-11-22.16:25:39.868 [main            ] INFO  Version                - Redisson 3.23.4
+24-11-22.16:25:39.908 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-11-22.16:25:40.059 [redisson-netty-2-4] INFO  MasterPubSubConnectionPool - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-11-22.16:25:40.073 [redisson-netty-2-13] INFO  MasterConnectionPool   - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-11-22.16:25:41.198 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-11-22.16:25:41.248 [main            ] INFO  ApiTest                - Started ApiTest in 2.813 seconds (JVM running for 3.301)
+24-11-22.17:10:30.798 [main            ] INFO  ApiTest                - Starting ApiTest using Java 1.8.0_312 on LwjdeMacBook-Pro.local with PID 14639 (started by lwj in /Users/lwj/Developer/big-market/big-market-app)
+24-11-22.17:10:30.799 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-11-22.17:10:31.307 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-11-22.17:10:31.310 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-11-22.17:10:31.326 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+24-11-22.17:10:31.942 [main            ] INFO  Version                - Redisson 3.23.4
+24-11-22.17:10:31.984 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-11-22.17:10:32.136 [redisson-netty-2-4] INFO  MasterPubSubConnectionPool - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-11-22.17:10:32.158 [redisson-netty-2-13] INFO  MasterConnectionPool   - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-11-22.17:10:33.324 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-11-22.17:10:33.369 [main            ] INFO  ApiTest                - Started ApiTest in 2.833 seconds (JVM running for 3.328)
+24-11-22.17:10:33.659 [main            ] INFO  ApiTest                - 测试结果: null
+24-11-22.17:11:56.807 [main            ] INFO  ApiTest                - Starting ApiTest using Java 1.8.0_312 on LwjdeMacBook-Pro.local with PID 14731 (started by lwj in /Users/lwj/Developer/big-market/big-market-app)
+24-11-22.17:11:56.807 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-11-22.17:11:57.329 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-11-22.17:11:57.331 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-11-22.17:11:57.346 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+24-11-22.17:11:57.942 [main            ] INFO  Version                - Redisson 3.23.4
+24-11-22.17:11:57.980 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-11-22.17:11:58.138 [redisson-netty-2-4] INFO  MasterPubSubConnectionPool - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-11-22.17:11:58.151 [redisson-netty-2-13] INFO  MasterConnectionPool   - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-11-22.17:11:59.265 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-11-22.17:11:59.305 [main            ] INFO  ApiTest                - Started ApiTest in 2.767 seconds (JVM running for 3.236)
+24-11-22.17:11:59.606 [main            ] INFO  ApiTest                - 测试结果: 101
+24-11-22.17:13:50.595 [main            ] INFO  ApiTest                - Starting ApiTest using Java 1.8.0_312 on LwjdeMacBook-Pro.local with PID 14889 (started by lwj in /Users/lwj/Developer/big-market/big-market-app)
+24-11-22.17:13:50.596 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-11-22.17:13:51.117 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-11-22.17:13:51.119 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-11-22.17:13:51.134 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+24-11-22.17:13:51.768 [main            ] INFO  Version                - Redisson 3.23.4
+24-11-22.17:13:51.811 [main            ] WARN  DnsServerAddressStreamProviders - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+24-11-22.17:13:51.977 [redisson-netty-2-5] INFO  MasterPubSubConnectionPool - 1 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-11-22.17:13:51.988 [redisson-netty-2-13] INFO  MasterConnectionPool   - 5 connections initialized for 127.0.0.1/127.0.0.1:16379
+24-11-22.17:13:53.193 [main            ] INFO  EndpointLinksResolver  - Exposing 1 endpoint(s) beneath base path '/actuator'
+24-11-22.17:13:53.236 [main            ] INFO  ApiTest                - Started ApiTest in 2.925 seconds (JVM running for 3.406)
